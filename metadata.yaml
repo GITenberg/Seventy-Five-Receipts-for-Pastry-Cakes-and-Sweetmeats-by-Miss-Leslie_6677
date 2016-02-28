@@ -1,0 +1,32 @@
+_repo: Seventy-Five-Receipts-for-Pastry-Cakes-and-Sweetmeats-by-Miss-Leslie_6677
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+description: '"Eliza Leslie''s Seventy-five Receipts for Pastry, Cakes, and Sweetmeats
+  was the first distinctively baking cookbook published in America, as well as the
+  first to share ingredients in a systematic list order at the beginning of each recipe.
+  As Eliza recorded at the time of initial publication, "All the ingredients, with
+  their proper quantities, are enumerated in a list at the head of each receipt, a
+  plan which will greatly facilitate the business of procuring and preparing the requisite
+  article.""--Amazon.com, viewed June 5, 2013.'
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Confectionery'
+- !lcsh 'Cooking, American'
+- !lcsh 'Pastry'
+title: Seventy-Five Receipts for Pastry, Cakes and Sweetmeats, by Miss Leslie
+url: http://www.gutenberg.org/ebooks/6677
