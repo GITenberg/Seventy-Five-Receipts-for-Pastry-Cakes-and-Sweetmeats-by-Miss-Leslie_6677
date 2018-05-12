@@ -1,4 +1,8 @@
 _repo: Seventy-Five-Receipts-for-Pastry-Cakes-and-Sweetmeats-by-Miss-Leslie_6677
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leslie, Eliza
@@ -14,6 +18,8 @@ description: '"Eliza Leslie''s Seventy-five Receipts for Pastry, Cakes, and Swee
   their proper quantities, are enumerated in a list at the head of each receipt, a
   plan which will greatly facilitate the business of procuring and preparing the requisite
   article.""--Amazon.com, viewed June 5, 2013.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6677#Seventy-Five-Receipts-for-Pastry-Cakes-and-Sweetmeats-by-Miss-Leslie
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
